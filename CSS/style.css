@@ -1,0 +1,43 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  iframe {
+    border: none;
+    margin: 0;
+  }
+
+  .navbar-logo
+  {
+  float:left
+  }
+  body { 
+      padding-top: 10px; 
+  }
+  .menu {
+    position: relative;
+  }
+  
+  .top {
+      position: absolute;
+      top: 0;
+      right: 0;
+  }
+  
+  .imagestyle {
+    border-radius: 10%;
+  }
+  
+  .heading-main {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  }
+  
+  .card-title {
+    font-size: 1rem;
+  }
+  
+  
+  .card {
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+  }
